@@ -27,7 +27,7 @@ def printer(arr)
     puts badge
   end
 
-assign_rooms(arr).each do |assignment|
+  assign_rooms(arr).each do |assignment|
     puts assignment
   end
 
