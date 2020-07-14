@@ -10,5 +10,5 @@ def batch_badge_creator(name)
     new_array.push ("Hello, my name is #{name}".)
   end
   return new_array
-end 
+
 
